@@ -28,7 +28,7 @@ export default function App() {
     'My Alert Msg',
     [
       {
-        text: 'Cancel',
+        text: 'You cannot add an empty text!',
         style: 'cancel',
       },
     ],
